@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Over The Wire - Wargames"
-date:   2018-07-03 12:18:31 -0700
+date:   2020-02-03 12:18:31 -0700
 categories: wargames 
 ---
 
-[OverTheWire](http://overthewire.org/wargames/) is a series of wargames designed to help you practice security concepts. I started out with wargames on the first machine, Bandit, just to gauge the level of difficulty of the wargames offered by OTW. Compared to the more well-known capture-the-flag contests, like Google's CTF or the DefCon CTFs, OTW offers more rudimentary puzzles / hacks, but it's still an excellent resource for refreshing one's security-related skillsets.
+[OverTheWire](http://overthewire.org/wargames/) is a series of wargames designed to help you practice security concepts. I started out with wargames on the first machine, Bandit, just to gauge the level of difficulty of the wargames offered by OTW. Compared to the more well-known capture-the-flag contests, like Google's CTF or the DefCon CTFs, OTW offers more rudimentary hacking experiences, but it's still an excellent resource for refreshing one's security-related or [red team](https://en.wikipedia.org/wiki/Red_team#:~:text=A%20red%20team%20is%20a,broaden%20their%20problem%20solving%20capabilities.) skillsets.
 
-**NOTE - May 2019** Over the coming weeks we'll be transfering each exercise to its own page and will add comprehensive write-ups for each level in which we explain the commands used in detail (required parameters, optional parameters, the OSX analogous commands to the Linux commands used, etc.)
+**NOTE - July 2020 ** Over the coming weeks we'll be transfering each exercise to its own page and will add comprehensive write-ups for each level in which we explain the commands used in detail (required parameters, optional parameters, the OSX analogous commands to the Linux commands used, etc.)
 
 ## level_0
 This level's a freebie. Simply `ssh` into the bandit machine and you're done with level 0:
